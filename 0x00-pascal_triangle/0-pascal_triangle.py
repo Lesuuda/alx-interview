@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""solves the pascals triangle of size n"""
 
 
 def pascal_triangle(n):

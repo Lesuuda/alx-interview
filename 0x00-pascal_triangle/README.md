@@ -1,0 +1,1 @@
+pascals tringle leetcode solution

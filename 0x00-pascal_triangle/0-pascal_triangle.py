@@ -3,6 +3,8 @@
 
 def pascal_triangle(n):
     """solves  the pascals triangle"""
+    if n <= 0:
+        return []
     triangle = []
     for i in range(n):
         if i == 0:
